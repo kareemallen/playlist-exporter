@@ -11,7 +11,7 @@ config = {
     'author_email': 'My email.',
     'version': '0.0.1',
     'install_requires': ['nose', 'spotipy'],
-    'packages': ['playlist-exporter'],
+    'packages': ['playlistExporter'],
     'scripts': [],
     'name': ''
 }
